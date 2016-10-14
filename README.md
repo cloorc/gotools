@@ -1,1 +1,1 @@
-# gotools
+# A toolset implemented with Golang.
